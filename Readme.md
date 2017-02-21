@@ -9,4 +9,4 @@ In-class assignments are hands on practice that are done as part of the reading 
 
 Labs are assignments that add onto and develop the basic skills from reading and/or lectures. They require you to use what you have learned in different ways and combine separate concepts into a single solution. No solutions are available for the labs, but staff will help you *think through and solve* these problems if you need help and ask.
 
-Projects are larger assignments that you are expected to solve independently. While staff may help you *think through* solutions if you are stuck, they should not help you write the code for the solutions.
+Projects are larger assignments that you are expected to solve independently. While staff may help you *think through* tough spots if you get stuck, they should not help you write the code for the project assignments.
